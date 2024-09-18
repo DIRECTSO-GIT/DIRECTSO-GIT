@@ -6,7 +6,7 @@ With over 6 years of experience as a Software Engineer, I'm on a mission to crea
 
 
   -  I’m currently working on upgrading java applications from jdk 8 to 21 with cordova.
-  -  I’m currently learning; JAVA and upgradeing my skils.
+  -  I’m currently learning; JAVA and upgrading my skils.
   -  Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  C#, .NET, Java, Google Cloud Platform, Docker**
 
 <!--<h3 align="left">Connect with me:</h3>
